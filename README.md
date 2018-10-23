@@ -1,6 +1,8 @@
 # Youtube-DL-GUI
 youtube-dl GUI
 
+Download youtube-dl at the following link https://rg3.github.io/youtube-dl/ and place it in the same folder as the Youtube-DL-GUI
+
 Make sure you have installed FFmpeg and that it has been added to the environment variables. 
 FFmpeg can be downloaded at the following link https://www.ffmpeg.org
 
